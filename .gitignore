@@ -1,0 +1,12 @@
+# Приватные конфиги
+config.txt
+words.txt
+sticker.txt
+owner.txt
+
+# Telethon сессия
+my_userbot.session
+
+# Кэш Python
+__pycache__/
+*.pyc
